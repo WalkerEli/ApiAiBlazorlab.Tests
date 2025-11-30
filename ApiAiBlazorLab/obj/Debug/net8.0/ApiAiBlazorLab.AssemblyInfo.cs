@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAiBlazorLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d44acfe54f44f53dd4f066b9e140d3c9cdbb14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2af92bcde1e460c514cca525f710b02fd95f2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAiBlazorLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAiBlazorLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
